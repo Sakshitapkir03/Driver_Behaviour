@@ -1,1 +1,4 @@
+__pycache__/
+venv/
+venv310/
 .DS_Store
